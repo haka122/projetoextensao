@@ -1,0 +1,6 @@
+{
+  "name": "Portal do Cyberbullying - Guia Educativo",
+  "description": "Portal completo e aprofundado sobre Cyberbullying para Projeto de Extensão Universitária, abordando conceitos, impactos, legislação brasileira, prevenção e canais de ajuda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
