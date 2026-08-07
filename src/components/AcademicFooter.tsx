@@ -61,17 +61,11 @@ export const AcademicFooter: React.FC = () => {
 
         </div>
 
-        {/* Legal Disclaimer & Vercel Publishing Note */}
+        {/* Legal Disclaimer */}
         <div className="pt-6 border-t border-neutral-800/80 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-neutral-500">
           <p className="text-center sm:text-left">
             Este site é um material de caráter informativo e educacional. Em caso de emergência ou crimes cibernéticos em andamento, procure as autoridades policiais ou ligue 100/188.
           </p>
-
-          <div className="flex items-center gap-2 shrink-0">
-            <span className="px-2.5 py-1 bg-neutral-900 border border-neutral-800 text-red-400 text-[11px] font-mono uppercase">
-              Pronto para Hospedagem na Vercel
-            </span>
-          </div>
         </div>
 
       </div>

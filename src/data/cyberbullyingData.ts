@@ -1,14 +1,22 @@
 import { CyberType, LegalItem, ActionGuide, Scenario, QuizQuestion, EmergencyContact, AcademicProjectInfo } from '../types';
 
 export const ACADEMIC_INFO: AcademicProjectInfo = {
-  university: "Projeto de Extensão Universitária",
-  course: "Direito / Psicologia / Tecnologia da Informação / Pedagogia",
-  discipline: "Extensão Acadêmica e Responsabilidade Social Digital",
-  advisor: "Prof. Dr. Orientador do Projeto",
+  university: "Afya centro universitário de Itaperuna",
+  course: "Direito / Engenharia da computação",
+  discipline: "Projeto de extensão V",
+  advisor: "Prof. Matheus Matos",
   students: [
-    "Estudante 1 (Adicione seu nome)",
-    "Estudante 2 (Adicione o nome)",
-    "Estudante 3 (Adicione o nome)"
+    "Estudante 1 (Aline Souza dos Santos)",
+    "Estudante 2 (Bismarck Mota Souza)",
+    "Estudante 3 (Emanuelly Silveira Leornado)",
+    "Estudante 4 (Gabrielle de Souza Oliveira)",
+    "Estudante 5 (Georgia A. costa)",
+    "Estudante 6 (Iasmin Santos e Silva)",
+    "Estudante 7 (Igor Mazorque da silva)",
+    "Estudante 8 (Lucia da Costa Teixeira)",
+    "Estudante 9 (Manoela da silva tardin)",
+    "Estudante 10 (Maria Eduarda ferreira)",
+
   ],
   year: "2026"
 };
