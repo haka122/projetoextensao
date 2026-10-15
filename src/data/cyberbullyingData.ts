@@ -4,7 +4,7 @@ export const ACADEMIC_INFO: AcademicProjectInfo = {
   university: "Afya centro universitário de Itaperuna",
   course: "Direito / Engenharia da computação",
   discipline: "Projeto de extensão V",
-  advisor: "Prof. Matheus Matos",
+  advisor: "Prof. Fabíola Apolinário",
   students: [
     "Estudante 1 (Aline Souza dos Santos)",
     "Estudante 2 (Bismarck Mota Souza)",
@@ -19,6 +19,8 @@ export const ACADEMIC_INFO: AcademicProjectInfo = {
     "Estudante 11 ( Isabela Bastos Santana)",
     "Estudannte 12 ( Brenda sader de Magalhaes)",
     "Estudante 13 ( Wagner batista Borges)", 
+    "Estudante 14 ( Abin Dornelas)",
+    "Estudante 15 ( Pietro Herrera)",
 
   ],
   year: "2026"
